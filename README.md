@@ -26,3 +26,7 @@ an object can be translated back into a list using the variable `game`
 ```
 print(sud.game)
 ```
+
+# credits
+made by hellNo
+discord hellNo#3333
