@@ -29,4 +29,5 @@ print(sud.game)
 
 # credits
 made by hellNo
+
 discord hellNo#3333
